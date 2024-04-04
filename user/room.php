@@ -47,6 +47,7 @@
 					?>
 				</div>
 			</div>
+			
 			<div>
 				<div class="panel panel-default" style="height: 400px;">
 					<div style="height:10px;"></div>
@@ -65,6 +66,6 @@
 					</button>
 					</span>
 				</div>
-				
 			</div>			
 		</div>
+		<br>
